@@ -1,7 +1,7 @@
 # Escenio
-Scenio o escenio es un lugar o colectivo en el que aparece una creatividad y genialidad desusada.
+Propuesta web para retroalimentacion de ideas.
 
-#### Propuesta web para retroalimentacion de ideas.
+***Scenio o escenio es un lugar o colectivo en el que aparece una creatividad y genialidad desusada.***
 
 ## Tecnologias
 Vue 3
