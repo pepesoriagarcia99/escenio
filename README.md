@@ -4,9 +4,9 @@ Propuesta web para retroalimentacion de ideas.
 ***Scenio o escenio es un lugar o colectivo en el que aparece una creatividad y genialidad desusada.***
 
 ## Tecnologias
-Vue 3
-Express
-MongoDB
+- Vue 3
+- Express
+- MongoDB
 
 ## Home
 Lista de ideas, si la idea esta muy desarrollada mostrar resumen
